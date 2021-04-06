@@ -1,0 +1,36 @@
+numero,aula,assunto,questao,dificuldade,tags
+1,8,dicionario,Vencedor da corrida,7,dicionario laço funcao condicional
+2,8,dicionario,Tempo de conclusão de 100 metros rasos,5,dicionario laço funcao
+3,10,arquivo,Criptografia,7,arquivo laço condicional
+4,2,funcao,Celsius para Fahrenheit,3,funcao
+5,2,funcao,Reflexao interna total,6,funcao
+6,2,funcao,Calcula angulo de refracao,6,funcao
+7,2,funcao,Convertendo libras,3,funcao
+8,2,funcao,Movimento retilineo uniforme,3,funcao
+9,2,funcao,Area do triangulo,3,funcao
+10,2,funcao,Volume da PIZZA!,3,funcao
+11,2,funcao,Volume de uma esfera,3,funcao
+12,2,funcao,Distancia entre dois pontos,3,funcao
+13,2,funcao,Lancamento de projetil,4,funcao
+14,2,funcao,Calcula gaussiana,4,funcao
+15,2,funcao,A boia boia,5,funcao condicional
+16,2,funcao,Velocidade media,2,funcao
+17,2,funcao,Cateto de um triangulo retangulo,3,funcao
+18,2,funcao,Equacao de primeiro grau,2,funcao
+19,2,funcao,Area de um pentagono regular,6,funcao
+20,2,funcao,Movimento retilineo uniformemente variado,4,funcao
+21,3,input,Total em segundos,3,input
+22,3,input,Reducao no tempo de vida de um fumante,3,input
+23,3,input,Valor da conta,3,input
+24,4,condicional,Todo mundo odeia o Chris,3,input condicional
+25,4,condicional,Preco da passagem,3,input condicional
+26,4,condicional,Teste de maioridade,3,funcao condicional
+27,4,condicional,Classificador de triangulos,5,funcao condicional
+28,4,condicional,Jaca Wars!,5,condicional
+29,4,condicional,IRRF,6,input condicional
+30,4,condicional,Ano Bissexto,6,condicional
+31,4,condicional,Pedra papel ou tesoura,6,condicional funcao
+32,4,condicional,Calculo de aumento de salario,3,condicional funcao
+33,4,condicional,Multa de velocidade,4,input condicional
+34,4,condicional,Emprestimo bancario,4,input condicional
+35,4,condicional,Classificador de idade,3,funcao condicional
