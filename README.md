@@ -1,5 +1,5 @@
-# Academia-Python ![inf](icon_acd_py.png)
-<img src="icon_acd_py.png" width="20"/>
+# Academia-Python <img src="icon_acd_py.png" width="35"/>
+
 Soluções do servidor de questões Academia Python.
 ## Aula 1: Introdução ao Python
 
