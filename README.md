@@ -1,4 +1,4 @@
-# Academia-Python
+# Academia-Python ![inf](icon_acd_py.png)
 Soluções do servidor de questões Academia Python.
 ## Aula 1: Introdução ao Python
 
