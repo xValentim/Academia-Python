@@ -1,4 +1,5 @@
-# Academia-Python ![inf](icon_acd_py.png =10x10)
+# Academia-Python ![inf](icon_acd_py.png)
+<img src="icon_acd_py.png" width="200"/>
 Soluções do servidor de questões Academia Python.
 ## Aula 1: Introdução ao Python
 
