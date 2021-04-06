@@ -1,4 +1,4 @@
-# Academia-Python ![inf](icon_acd_py.png)
+# Academia-Python ![inf](icon_acd_py.png =10x)
 Soluções do servidor de questões Academia Python.
 ## Aula 1: Introdução ao Python
 
