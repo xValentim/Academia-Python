@@ -1,0 +1,15 @@
+Laços do tipo "enquanto" (while)
+    Valor do troco: Formatação da escrita
+
+#AULA 4 (CONDICIONAIS)
+
+    - Preço da passagem: O texto não tá formatado, o texto pode ficar confuso.
+    -
+
+
+#AULA 8 (DICIONÁRIOS)
+
+    - Vencedor da corrida: Precisa colocar a referência da questão com nome.
+    Usa a questão "Tempo de conclusão 100 metros rasos" (aula 8). Lá tem um link com um numero de exercicio
+    que não existe (acho que era o numero da questão no servidor antigo).
+    -
